@@ -1,0 +1,31 @@
+{
+  "name": "paginated-table",
+  "version": "1.0.0",
+  "description": "A simple paginated table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktajpuri/paginated-bootstrap-table.git"
+  },
+  "author": "Kamlesh Tajpuri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktajpuri/paginated-bootstrap-table/issues"
+  },
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-util": "latest",
+    "gulp-sass": "latest",
+    "gulp-coffee": "latest",
+    "gulp-uglify": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest"
+  },
+  "homepage": "https://github.com/ktajpuri/paginated-bootstrap-table#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
